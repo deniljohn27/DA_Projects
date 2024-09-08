@@ -1,3 +1,5 @@
-[Sales_Insight_Dashboard](https://public.tableau.com/views/SalesInsight_17254466450290/SalesInsightsDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[DataScientistSalary_Dashboard](https://public.tableau.com/views/DataScientistSalaryDashboard_17155351411590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[Covid_Dashboard](https://public.tableau.com/views/COVID_19_17150965557920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+1.[Sales_Insight_Dashboard](https://public.tableau.com/views/SalesInsight_17254466450290/SalesInsightsDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+2.[DataScientistSalary_Dashboard](https://public.tableau.com/views/DataScientistSalaryDashboard_17155351411590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+3.[Covid_Dashboard](https://public.tableau.com/views/COVID_19_17150965557920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
